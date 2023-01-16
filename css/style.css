@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+}
+
+main{
+    padding-left: 10px;
+}
+
+.logo{
+    width:150px;
+    margin-top: 120px;
+}
+
+header{
+    background-image: url(/img/pattern.png);
+    background-color: cornflowerblue;
+    height: 170px;
+    
+    
+}
+
+#titolo{
+    margin-bottom: 0px;
+}
+
+#sottotitolo{
+    color: grey;
+    margin-top: 0px;
+}
+ #scritta-the-booleaners{
+    color: blue;
+ }  
+ 
+ 
+ .foto-tim{
+    margin-top: 20px;
+ }
+    
+    
+    
+    
+    
+ 
