@@ -15,9 +15,9 @@ header{
     background-image: url(/img/pattern.png);
     background-color: cornflowerblue;
     height: 170px;
-    
-    
 }
+    
+    
 
 #titolo{
     margin-bottom: 0px;
@@ -27,16 +27,38 @@ header{
     color: grey;
     margin-top: 0px;
 }
- #scritta-the-booleaners{
+
+#scritta-the-booleaners{
     color: blue;
- }  
+}  
  
  
  .foto-tim{
     margin-top: 20px;
  }
+   
+ #lorem{
+     background-color: yellow;
+     
+}
+
+table{
+    text-align: left;
+    margin-right: 10px;
     
+}
+   
+ thead{
+     background-color:rgb(0, 150, 255) ;
+}
+
+.blue-row{
+    background-color:#A7C7E7 ;
+}
     
+.celle{
+    width: 20%;
+}
     
     
     
