@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+}
+
+main{
+    padding-left: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.logo{
+    width:150px;
+    margin-top: 120px;
+}
+
+header{
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+}
+    
+    
+
+#titolo{
+    margin-bottom: 0px;
+}
+
+#sottotitolo{
+    color: grey;
+    margin-top: 0px;
+}
+
+#scritta-the-booleaners{
+    color: blue;
+}  
+ 
+ 
+ .foto-tim{
+    margin-top: 20px;
+ }
+   
+ #lorem{
+     background-color: yellow;
+     
+}
+
+table{
+    text-align: left;
+    margin-right: 10px;
+    
+}
+   
+ thead{
+     background-color:rgb(0, 150, 255) ;
+}
+
+.blue-row{
+    background-color:#A7C7E7 ;
+}
+    
+.celle{
+    width: 20%;
+}
+    
+ footer{
+    padding-left: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+ }
+ 
+
+    
+ .titolo-finale1{
+     height: 200px;
+     width: 300px;
+     margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+ }
+
+ .titolo-finale2{
+     height: 200px;
+     width: 300px;
+     margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-image: url(../img/graph.jpg);
+ }
